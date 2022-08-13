@@ -1,6 +1,7 @@
 <template>
   <div class="text-3xl text-red-400">
     <Capabilities />
+    tesst
   </div>
 </template>
 
